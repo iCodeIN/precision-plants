@@ -21,11 +21,11 @@ main {
     text-align: center;
 }
 
-img {
-    width: 50%;
+.logo img {
+    width: 75%;
 }
 
-h1 {
+h1 { /*accessibly hiding h1*/
     clip: rect(0 0 0 0);
     clip-path: inset(50%);
     height: 1px;
