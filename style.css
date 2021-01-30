@@ -35,6 +35,11 @@ h1 { /*accessibly hiding h1*/
     width: 1px;
 }
 
+.image-slideshow img {
+    height: 400px;
+    width: 300px;
+}
+
 label, input, textarea {
     font-size: 1.6rem;
 }
